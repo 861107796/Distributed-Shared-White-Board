@@ -1,4 +1,4 @@
-# -Distributed-Shared-White-Board
+# Distributed-Shared-White-Board
 A networked **shared whiteboard** that allows multiple users to draw and collaborate on the same canvas in real time.  
 The first user starts the session as the **manager** (server/host). Other users join as **peers** (clients). The manager approves join requests and can manage the session.
 
