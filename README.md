@@ -12,7 +12,7 @@ The first user starts the session as the **manager** (server/host). Other users 
 - Manager controls: approve join requests, manage/remove peers, and session lifecycle
 
 - 
-- ## Getting Started
+## Getting Started
 - ### Prerequisites
 - Java (JRE/JDK) installed  
   Check with:
